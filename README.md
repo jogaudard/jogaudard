@@ -1,5 +1,6 @@
-Field ecologist who likes to code.  
-My work is focused on ecosystem gas fluxes in alpine and arctic ecosystems, and the effect of global changes on those.
+Product-oriented field ecologist with a strong interest in alpine and arctic ecosystems, data workflows, and scientific software development.
+Experienced in developing user-driven tools in collaboration with industry actors, translating complex measurement workflows into robust, reproducible solutions
+My work is focused on global change ecology in alpine and arctic ecosystems, with a particular focus on ecosystem gas fluxes, and methodology in ecosystem gas fluxes.
 I developped the [fluxible R package](https://plant-functional-trait-course.github.io/fluxible/) to process ecosystem gas flux data in a reproducible and efficient way.
 Combining my experience as a military leader, field scientist, scout leader and outdoor sports regular, I started the [BIOutside platform](https://bioutside.w.uib.no/) to provide guidelines for safe and inclusive fieldwork.
 When not at work, you might find me going up and down mountains.
